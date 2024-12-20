@@ -1,62 +1,4 @@
-<!DOCTYPE html>
-<html lang="sr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LinconCapital.com</title>
-    <style>
-        
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body, html {
-            height: 100%;
-            font-family: Arial, sans-serif;
-        }
-
-        
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f4f4f4;
-            text-align: center;
-        }
-
-        main {
-            width: 100%;
-            max-width: 1200px; 
-            padding: 20px;
-        }
-
-        footer {
-            position: absolute;
-            bottom: 10px;
-            width: 100%;
-            text-align: center;
-            font-size: 14px;
-            color: #555;
-        }
-
-        
-        svg {
-            width: 100%;
-            height: auto;
-            max-width: 100%;
-            display: block;
-            margin: 0 auto;
-        }
-    </style>
-</head>
-<body>
-
-    <main>
-        <div>
-            <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375.78 56.43">
   <defs>
     <style>
@@ -91,12 +33,3 @@
     <circle class="cls-2" cx="96.18" cy="9.67" r="5.32"/>
   </g>
 </svg>
-        </div>
-    </main>
-
-    <footer>
-        <p>&copy; 2024 LINCOCAPITAL</p>
-    </footer>
-
-</body>
-</html>

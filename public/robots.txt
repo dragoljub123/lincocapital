@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://capitalrevo.com/sitemap.xml
